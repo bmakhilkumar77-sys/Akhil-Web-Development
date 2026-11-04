@@ -1,8 +1,8 @@
 # Akhil-Web-Development
-Name:B.M.Akhil Kumar
-Roll no:26000868
-Branch:CSM
-Section:1
+Name:B.M.Akhil Kumar   
+Roll no:26000868   
+Branch:CSM   
+Section:1   
 
 
 #TOPICS
